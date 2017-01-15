@@ -1,0 +1,9 @@
+set backspace=indent,eol,start
+set autoindent
+set backup
+set history=50
+set ruler
+set showcmd
+set incsearch
+filetype plugin indent on
+
